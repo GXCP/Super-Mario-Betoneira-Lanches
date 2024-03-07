@@ -20,6 +20,9 @@ body{
 }
 
 .cabecalho-item{
+    display: inline-block;
+    margin: 10%;
+    padding: 20%;
     
 
     
@@ -27,7 +30,7 @@ body{
 }
 
 .cabecalho-lista{
-    display: inline-block;
+    
 
 
    
