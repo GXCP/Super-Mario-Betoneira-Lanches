@@ -4,20 +4,16 @@
 }
 
 body{
+
     background-color: #AB3814;
 }
 
 .cabecalho{
+
     background-color: #B08347;
     display: flex;
     align-items: center;
     justify-content: space-between;
-}
-
-.cabecalho-imagem{
-    wi
-
-    
 }
 
 .cabecalho-item{
@@ -32,10 +28,17 @@ body{
 
 }
 
-.cabecalho-lista{
+.corpo{
+
+    display: flex;
+
+
+
+
+
+}
     
 
 
    
 
-}
