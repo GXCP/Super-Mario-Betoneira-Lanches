@@ -31,8 +31,12 @@ body{
 .secao1{
 
     display: flex;
+    
+}
 
-  
+.secao1-div{
+
+    align-items: first baseline;
 }
     
 
