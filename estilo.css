@@ -36,7 +36,8 @@ body{
 
 .secao1-div{
 
-    align-items: first baseline;
+    align-items: center;
+    justify-content: space-between;
 }
     
 
