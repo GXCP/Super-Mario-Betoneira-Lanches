@@ -31,13 +31,14 @@ body{
 .secao1{
 
     display: flex;
+    align-items: center;
+    justify-content: center;
     
 }
 
 .secao1-div{
 
-    align-items: center;
-    justify-content: center;
+    
 }
     
 
