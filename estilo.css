@@ -33,7 +33,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    
+    padding: 25px 0 ;    
 }
 
 .secao1-div{
