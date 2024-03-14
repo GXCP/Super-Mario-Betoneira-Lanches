@@ -14,20 +14,6 @@ body{
     align-items: center;
     justify-content: space-between;
     background-color:floralwhite
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
 }
 
 .cabecalho-item{
@@ -35,6 +21,7 @@ body{
     display: inline-block;
     margin: 0 75px;
     font-size: 24px;
+    color: aliceblue;
     
     
 
