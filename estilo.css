@@ -54,6 +54,8 @@ cabecalho-imagem{
 
 .secao2-nossos-patrocinadores{
     color: aliceblue;
+    display: flex;
+    align-items: center;
 }
     
 
