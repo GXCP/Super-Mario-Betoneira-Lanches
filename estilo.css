@@ -65,12 +65,17 @@ cabecalho-imagem{
 
 .secao2{
     color: aliceblue;
+    
+}
+    
+.secao2-titulo{
+
     display: flex;
     align-items: center;
     justify-content: center;
-}
-    
 
+
+}
 
    
 
