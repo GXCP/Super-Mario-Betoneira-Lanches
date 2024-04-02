@@ -86,7 +86,6 @@ cabecalho-imagem{
    }
    
    .rodape img{
-    height: 10%;
-    width: 50%;
-    
-   }
+    height: 60px;
+    width: 100%;
+  }
