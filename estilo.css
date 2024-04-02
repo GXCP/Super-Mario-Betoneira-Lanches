@@ -84,4 +84,7 @@ cabecalho-imagem{
    .rodape{
     text-align: center;
    }
-
+   
+   .rodape img{
+    width: 400%
+   }
